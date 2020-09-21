@@ -1,0 +1,107 @@
+[31-Jan-2018 17:23:10 Europe/Berlin] PHP Notice:  Undefined index: id in C:\xampp\htdocs\iteh\izmeniBrend.php on line 3
+[31-Jan-2018 17:23:11 Europe/Berlin] PHP Notice:  Undefined offset: 0 in C:\xampp\htdocs\iteh\dbbroker.php on line 191
+[31-Jan-2018 17:23:24 Europe/Berlin] PHP Notice:  Undefined index: id in C:\xampp\htdocs\iteh\izmeniBrend.php on line 3
+[31-Jan-2018 17:23:24 Europe/Berlin] PHP Notice:  Undefined offset: 0 in C:\xampp\htdocs\iteh\dbbroker.php on line 191
+[31-Jan-2018 17:23:24 Europe/Berlin] PHP Fatal error:  Call to undefined method Brend::izmeniBrend() in C:\xampp\htdocs\iteh\izmeniBrend.php on line 12
+[31-Jan-2018 17:24:45 Europe/Berlin] PHP Notice:  Undefined index: id in C:\xampp\htdocs\iteh\izmeniBrend.php on line 3
+[31-Jan-2018 17:24:45 Europe/Berlin] PHP Notice:  Undefined offset: 0 in C:\xampp\htdocs\iteh\dbbroker.php on line 191
+[31-Jan-2018 17:24:53 Europe/Berlin] PHP Notice:  Undefined index: id in C:\xampp\htdocs\iteh\izmeniBrend.php on line 3
+[31-Jan-2018 17:24:53 Europe/Berlin] PHP Notice:  Undefined offset: 0 in C:\xampp\htdocs\iteh\dbbroker.php on line 191
+[31-Jan-2018 17:24:53 Europe/Berlin] PHP Fatal error:  Call to undefined method Brend::izmeniBrend() in C:\xampp\htdocs\iteh\izmeniBrend.php on line 12
+[31-Jan-2018 17:25:25 Europe/Berlin] PHP Notice:  Undefined index: id in C:\xampp\htdocs\iteh\izmeniBrend.php on line 3
+[31-Jan-2018 17:25:25 Europe/Berlin] PHP Notice:  Undefined offset: 0 in C:\xampp\htdocs\iteh\dbbroker.php on line 191
+[31-Jan-2018 17:25:34 Europe/Berlin] PHP Notice:  Undefined index: id in C:\xampp\htdocs\iteh\izmeniBrend.php on line 3
+[31-Jan-2018 17:25:34 Europe/Berlin] PHP Notice:  Undefined offset: 0 in C:\xampp\htdocs\iteh\dbbroker.php on line 191
+[31-Jan-2018 17:25:39 Europe/Berlin] PHP Notice:  Undefined index: id in C:\xampp\htdocs\iteh\izmeniBrend.php on line 3
+[31-Jan-2018 17:25:39 Europe/Berlin] PHP Notice:  Undefined offset: 0 in C:\xampp\htdocs\iteh\dbbroker.php on line 191
+[31-Jan-2018 17:25:40 Europe/Berlin] PHP Fatal error:  Problem preparing query (Update brand set name = ?, opis= ?, zemlja= ?  where id=?) Table 'bohobaza.brand' doesn't exist in C:\xampp\htdocs\iteh\dbbroker.php on line 604
+[31-Jan-2018 17:27:21 Europe/Berlin] PHP Notice:  Undefined index: id in C:\xampp\htdocs\iteh\izmeniBrend.php on line 3
+[31-Jan-2018 17:27:21 Europe/Berlin] PHP Notice:  Undefined offset: 0 in C:\xampp\htdocs\iteh\dbbroker.php on line 191
+[31-Jan-2018 17:27:27 Europe/Berlin] PHP Notice:  Undefined index: id in C:\xampp\htdocs\iteh\izmeniBrend.php on line 3
+[31-Jan-2018 17:27:27 Europe/Berlin] PHP Notice:  Undefined offset: 0 in C:\xampp\htdocs\iteh\dbbroker.php on line 191
+[31-Jan-2018 17:28:02 Europe/Berlin] PHP Notice:  Undefined index: id in C:\xampp\htdocs\iteh\izmeniBrend.php on line 3
+[31-Jan-2018 17:28:02 Europe/Berlin] PHP Notice:  Undefined offset: 0 in C:\xampp\htdocs\iteh\dbbroker.php on line 191
+[31-Jan-2018 18:24:11 Europe/Berlin] PHP Notice:  Undefined variable: errors in C:\xampp\htdocs\iteh\errors.php on line 1
+[31-Jan-2018 18:24:11 Europe/Berlin] PHP Notice:  Undefined variable: username in C:\xampp\htdocs\iteh\register.php on line 38
+[31-Jan-2018 18:24:11 Europe/Berlin] PHP Notice:  Undefined variable: email in C:\xampp\htdocs\iteh\register.php on line 43
+[31-Jan-2018 18:24:25 Europe/Berlin] PHP Notice:  Undefined variable: errors in C:\xampp\htdocs\iteh\errors.php on line 1
+[31-Jan-2018 18:24:25 Europe/Berlin] PHP Notice:  Undefined variable: username in C:\xampp\htdocs\iteh\register.php on line 38
+[31-Jan-2018 18:24:25 Europe/Berlin] PHP Notice:  Undefined variable: email in C:\xampp\htdocs\iteh\register.php on line 43
+[31-Jan-2018 18:27:27 Europe/Berlin] PHP Notice:  Undefined variable: errors in C:\xampp\htdocs\iteh\errors.php on line 1
+[31-Jan-2018 18:27:40 Europe/Berlin] PHP Notice:  Undefined variable: errors in C:\xampp\htdocs\iteh\errors.php on line 1
+[07-Feb-2018 15:38:39 Europe/Berlin] PHP Notice:  Undefined variable: password in C:\xampp\htdocs\iteh\Korisnici.php on line 23
+[07-Feb-2018 15:45:34 Europe/Berlin] PHP Parse error:  syntax error, unexpected ')' in C:\xampp\htdocs\iteh\Korisnici.php on line 31
+[08-Feb-2018 13:53:12 Europe/Berlin] PHP Warning:  include(koktelClass.php): failed to open stream: No such file or directory in C:\xampp\htdocs\iteh\search.php on line 3
+[08-Feb-2018 13:53:12 Europe/Berlin] PHP Warning:  include(): Failed opening 'koktelClass.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\iteh\search.php on line 3
+[08-Feb-2018 13:54:16 Europe/Berlin] PHP Warning:  include(koktelClass.php): failed to open stream: No such file or directory in C:\xampp\htdocs\iteh\search.php on line 3
+[08-Feb-2018 13:54:16 Europe/Berlin] PHP Warning:  include(): Failed opening 'koktelClass.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\iteh\search.php on line 3
+[08-Feb-2018 13:54:16 Europe/Berlin] PHP Warning:  include(koktelClass.php): failed to open stream: No such file or directory in C:\xampp\htdocs\iteh\search.php on line 3
+[08-Feb-2018 13:54:16 Europe/Berlin] PHP Warning:  include(): Failed opening 'koktelClass.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\iteh\search.php on line 3
+[08-Feb-2018 13:54:16 Europe/Berlin] PHP Warning:  include(koktelClass.php): failed to open stream: No such file or directory in C:\xampp\htdocs\iteh\search.php on line 3
+[08-Feb-2018 13:54:16 Europe/Berlin] PHP Warning:  include(): Failed opening 'koktelClass.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\iteh\search.php on line 3
+[08-Feb-2018 13:54:17 Europe/Berlin] PHP Warning:  include(koktelClass.php): failed to open stream: No such file or directory in C:\xampp\htdocs\iteh\search.php on line 3
+[08-Feb-2018 13:54:17 Europe/Berlin] PHP Warning:  include(): Failed opening 'koktelClass.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\iteh\search.php on line 3
+[08-Feb-2018 13:56:46 Europe/Berlin] PHP Fatal error:  Cannot redeclare Brend::__construct() in C:\xampp\htdocs\iteh\Brend.php on line 12
+[08-Feb-2018 13:56:46 Europe/Berlin] PHP Fatal error:  Cannot redeclare Brend::__construct() in C:\xampp\htdocs\iteh\Brend.php on line 12
+[08-Feb-2018 13:56:48 Europe/Berlin] PHP Fatal error:  Cannot redeclare Brend::__construct() in C:\xampp\htdocs\iteh\Brend.php on line 12
+[08-Feb-2018 13:56:49 Europe/Berlin] PHP Fatal error:  Cannot redeclare Brend::__construct() in C:\xampp\htdocs\iteh\Brend.php on line 12
+[08-Feb-2018 13:56:49 Europe/Berlin] PHP Fatal error:  Cannot redeclare Brend::__construct() in C:\xampp\htdocs\iteh\Brend.php on line 12
+[08-Feb-2018 14:42:15 Europe/Berlin] PHP Notice:  Undefined variable: conn in C:\xampp\htdocs\iteh\index.php on line 53
+[08-Feb-2018 14:42:15 Europe/Berlin] PHP Fatal error:  Call to a member function query() on null in C:\xampp\htdocs\iteh\index.php on line 53
+[08-Feb-2018 14:42:22 Europe/Berlin] PHP Notice:  Undefined variable: conn in C:\xampp\htdocs\iteh\index.php on line 53
+[08-Feb-2018 14:42:22 Europe/Berlin] PHP Fatal error:  Call to a member function query() on null in C:\xampp\htdocs\iteh\index.php on line 53
+[08-Feb-2018 23:13:50 Europe/Berlin] PHP Notice:  Undefined variable: ID in C:\xampp\htdocs\iteh\podaci.php on line 54
+[08-Feb-2018 23:13:50 Europe/Berlin] PHP Notice:  Undefined variable: ID in C:\xampp\htdocs\iteh\podaci.php on line 54
+[08-Feb-2018 23:13:50 Europe/Berlin] PHP Notice:  Undefined variable: ID in C:\xampp\htdocs\iteh\podaci.php on line 54
+[08-Feb-2018 23:13:50 Europe/Berlin] PHP Notice:  Undefined variable: ID in C:\xampp\htdocs\iteh\podaci.php on line 54
+[08-Feb-2018 23:13:50 Europe/Berlin] PHP Notice:  Undefined variable: ID in C:\xampp\htdocs\iteh\podaci.php on line 54
+[08-Feb-2018 23:14:02 Europe/Berlin] PHP Notice:  Undefined variable: ID in C:\xampp\htdocs\iteh\podaci.php on line 54
+[08-Feb-2018 23:14:02 Europe/Berlin] PHP Notice:  Undefined variable: ID in C:\xampp\htdocs\iteh\podaci.php on line 54
+[08-Feb-2018 23:14:02 Europe/Berlin] PHP Notice:  Undefined variable: ID in C:\xampp\htdocs\iteh\podaci.php on line 54
+[08-Feb-2018 23:14:02 Europe/Berlin] PHP Notice:  Undefined variable: ID in C:\xampp\htdocs\iteh\podaci.php on line 54
+[08-Feb-2018 23:14:02 Europe/Berlin] PHP Notice:  Undefined variable: ID in C:\xampp\htdocs\iteh\podaci.php on line 54
+[08-Feb-2018 23:14:58 Europe/Berlin] PHP Notice:  Undefined variable: ID in C:\xampp\htdocs\iteh\podaci.php on line 54
+[08-Feb-2018 23:14:58 Europe/Berlin] PHP Notice:  Undefined variable: ID in C:\xampp\htdocs\iteh\podaci.php on line 54
+[08-Feb-2018 23:14:58 Europe/Berlin] PHP Notice:  Undefined variable: ID in C:\xampp\htdocs\iteh\podaci.php on line 54
+[08-Feb-2018 23:14:58 Europe/Berlin] PHP Notice:  Undefined variable: ID in C:\xampp\htdocs\iteh\podaci.php on line 54
+[08-Feb-2018 23:14:58 Europe/Berlin] PHP Notice:  Undefined variable: ID in C:\xampp\htdocs\iteh\podaci.php on line 54
+[08-Feb-2018 23:17:57 Europe/Berlin] PHP Notice:  Undefined variable: ID in C:\xampp\htdocs\iteh\podaci.php on line 56
+[08-Feb-2018 23:17:57 Europe/Berlin] PHP Notice:  Undefined variable: ID in C:\xampp\htdocs\iteh\podaci.php on line 56
+[08-Feb-2018 23:17:57 Europe/Berlin] PHP Notice:  Undefined variable: ID in C:\xampp\htdocs\iteh\podaci.php on line 56
+[08-Feb-2018 23:17:57 Europe/Berlin] PHP Notice:  Undefined variable: ID in C:\xampp\htdocs\iteh\podaci.php on line 56
+[08-Feb-2018 23:17:57 Europe/Berlin] PHP Notice:  Undefined variable: ID in C:\xampp\htdocs\iteh\podaci.php on line 56
+[08-Feb-2018 23:18:00 Europe/Berlin] PHP Notice:  Undefined variable: ID in C:\xampp\htdocs\iteh\podaci.php on line 56
+[08-Feb-2018 23:18:00 Europe/Berlin] PHP Notice:  Undefined variable: ID in C:\xampp\htdocs\iteh\podaci.php on line 56
+[08-Feb-2018 23:18:00 Europe/Berlin] PHP Notice:  Undefined variable: ID in C:\xampp\htdocs\iteh\podaci.php on line 56
+[08-Feb-2018 23:18:00 Europe/Berlin] PHP Notice:  Undefined variable: ID in C:\xampp\htdocs\iteh\podaci.php on line 56
+[08-Feb-2018 23:18:00 Europe/Berlin] PHP Notice:  Undefined variable: ID in C:\xampp\htdocs\iteh\podaci.php on line 56
+[08-Feb-2018 23:18:01 Europe/Berlin] PHP Notice:  Undefined variable: ID in C:\xampp\htdocs\iteh\podaci.php on line 56
+[08-Feb-2018 23:18:01 Europe/Berlin] PHP Notice:  Undefined variable: ID in C:\xampp\htdocs\iteh\podaci.php on line 56
+[08-Feb-2018 23:18:01 Europe/Berlin] PHP Notice:  Undefined variable: ID in C:\xampp\htdocs\iteh\podaci.php on line 56
+[08-Feb-2018 23:18:01 Europe/Berlin] PHP Notice:  Undefined variable: ID in C:\xampp\htdocs\iteh\podaci.php on line 56
+[08-Feb-2018 23:18:01 Europe/Berlin] PHP Notice:  Undefined variable: ID in C:\xampp\htdocs\iteh\podaci.php on line 56
+[08-Feb-2018 23:18:01 Europe/Berlin] PHP Notice:  Undefined variable: ID in C:\xampp\htdocs\iteh\podaci.php on line 56
+[08-Feb-2018 23:18:01 Europe/Berlin] PHP Notice:  Undefined variable: ID in C:\xampp\htdocs\iteh\podaci.php on line 56
+[08-Feb-2018 23:18:01 Europe/Berlin] PHP Notice:  Undefined variable: ID in C:\xampp\htdocs\iteh\podaci.php on line 56
+[08-Feb-2018 23:18:01 Europe/Berlin] PHP Notice:  Undefined variable: ID in C:\xampp\htdocs\iteh\podaci.php on line 56
+[08-Feb-2018 23:18:01 Europe/Berlin] PHP Notice:  Undefined variable: ID in C:\xampp\htdocs\iteh\podaci.php on line 56
+[08-Feb-2018 23:18:02 Europe/Berlin] PHP Notice:  Undefined variable: ID in C:\xampp\htdocs\iteh\podaci.php on line 56
+[08-Feb-2018 23:18:02 Europe/Berlin] PHP Notice:  Undefined variable: ID in C:\xampp\htdocs\iteh\podaci.php on line 56
+[08-Feb-2018 23:18:02 Europe/Berlin] PHP Notice:  Undefined variable: ID in C:\xampp\htdocs\iteh\podaci.php on line 56
+[08-Feb-2018 23:18:02 Europe/Berlin] PHP Notice:  Undefined variable: ID in C:\xampp\htdocs\iteh\podaci.php on line 56
+[08-Feb-2018 23:18:02 Europe/Berlin] PHP Notice:  Undefined variable: ID in C:\xampp\htdocs\iteh\podaci.php on line 56
+[08-Feb-2018 23:18:02 Europe/Berlin] PHP Notice:  Undefined variable: ID in C:\xampp\htdocs\iteh\podaci.php on line 56
+[08-Feb-2018 23:18:02 Europe/Berlin] PHP Notice:  Undefined variable: ID in C:\xampp\htdocs\iteh\podaci.php on line 56
+[08-Feb-2018 23:18:02 Europe/Berlin] PHP Notice:  Undefined variable: ID in C:\xampp\htdocs\iteh\podaci.php on line 56
+[08-Feb-2018 23:18:02 Europe/Berlin] PHP Notice:  Undefined variable: ID in C:\xampp\htdocs\iteh\podaci.php on line 56
+[08-Feb-2018 23:18:02 Europe/Berlin] PHP Notice:  Undefined variable: ID in C:\xampp\htdocs\iteh\podaci.php on line 56
+[17-Dec-2019 19:19:50 Europe/Berlin] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in C:\xampp\htdocs\iteh\dbbroker.php on line 73
+[17-Dec-2019 19:19:50 Europe/Berlin] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in C:\xampp\htdocs\iteh\dbbroker.php on line 76
+[17-Dec-2019 19:19:50 Europe/Berlin] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in C:\xampp\htdocs\iteh\podaci.php on line 7
+[17-Dec-2019 19:19:50 Europe/Berlin] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in C:\xampp\htdocs\iteh\podaci.php on line 9
+[17-Dec-2019 19:19:50 Europe/Berlin] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in C:\xampp\htdocs\iteh\podaci.php on line 19
+[17-Dec-2019 19:20:28 Europe/Berlin] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in C:\xampp\htdocs\iteh\dbbroker.php on line 73
+[17-Dec-2019 19:20:28 Europe/Berlin] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in C:\xampp\htdocs\iteh\dbbroker.php on line 76
+[17-Dec-2019 19:20:28 Europe/Berlin] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in C:\xampp\htdocs\iteh\podaci.php on line 7
+[17-Dec-2019 19:20:28 Europe/Berlin] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in C:\xampp\htdocs\iteh\podaci.php on line 9
+[17-Dec-2019 19:20:28 Europe/Berlin] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in C:\xampp\htdocs\iteh\podaci.php on line 19

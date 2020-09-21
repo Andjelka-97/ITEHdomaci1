@@ -1,0 +1,178 @@
+body{
+	background-color: #fff4e8;
+	font-family: Calibri;
+	color: #ffffff;
+	padding: 0;
+	margin: 0;
+}
+
+.container{
+	width: 100%;
+	margin: auto;
+	overflow: hidden;
+}
+
+ul{
+	margin: 0;
+	padding: 0;
+}
+ul li ul li{
+	display:none;
+}
+
+
+ul li:hover ul li{
+	display: block;
+	float: left;
+	color: #000;
+}
+
+header{
+    
+    background-color: #fe9998;
+	color: black;
+	padding-top: 2px;
+	min-height: 70px;
+	border-bottom: #ff5959 4px solid;
+
+}
+
+header h1{
+	margin-top: 3%;
+	font-size: 75px;
+	margin-left: 45px;
+}
+
+header a{
+
+	text-decoration: none;
+	text-transform: uppercase;
+	font-size: 20px;
+	color: #000;
+
+}
+
+header li{
+	display: inline;
+	padding: 20px;
+   text-align: right;
+
+}
+
+
+header nav{
+	float: left;
+    background-color: #ea2d2a;
+    opacity: 0.8;
+    width: 100%;
+    text-align: left;
+}
+
+
+header .naslov{
+	font-weight: bold;
+	color: #e52d34;
+	font-family: 'Gill Sans';
+	margin-left: 40px;
+	margin-right: 60px;
+	margin-bottom: 20px;
+
+	float: right;
+}
+
+header a:hover{
+	background-color: #ccc;
+	color:#000;
+	padding: 2px;
+	font-weight: bold;
+}
+
+
+#sredina{
+	background-image: url("img/ruze.jpg");
+	opacity: 0.8;
+	font-size: 70px;
+	font-family: 'Gill Sans';
+	text-align: center;
+	text-align: center;
+	width: 100%;
+	min-height: 600px;
+	background-attachment: fixed;
+	background-size: 1950px 1083px;
+	background-position: center;
+	border-bottom: solid;
+	border-color: red;
+	
+	}
+
+
+#sredina h1{
+     margin-top: 150px;
+    }
+
+#poslednji{
+	min-height: 100px;
+	background-color: #ea2d2a;
+	color: white;
+}
+
+#poslednji .kutije{
+	float: left;
+	text-align: center;
+	width: 30%;
+	padding: 10px;
+}
+
+#poslednji .kutije img{
+	width: 90px;
+}
+
+footer{
+	margin-top: 5px;
+	border-top: black 2px solid;
+	border-bottom: black 2px solid;
+	background-color: #ea2d2a;
+	color: white;
+	min-height: 70px;
+	text-align: center;
+	font-size: 20px;
+}
+
+div.background {
+  background: url("img/p1.jpg") repeat;
+  border: 2px solid black;
+  background-repeat: no-repeat;
+
+	background-size: 1400px 700px;
+	background-position: center;
+}
+
+div.transbox {
+  margin: 30px;
+  background-color: #ffffff;
+  border: 1px solid black;
+  opacity: 0.6;
+  filter: alpha(opacity=60); 
+}
+
+div.transbox p {
+  margin: 5%;
+  font-weight: bold;
+  color: #000000;
+}
+
+div.transbox h1 {
+  margin: 5%;
+  font-weight: bold;
+  color: #000000;
+}
+
+
+.success{
+	color: #3c763d;
+	background: #dff0d8;
+	border:1px solid #3c763d;
+	margin-bottom: 20px;
+}
+
+
